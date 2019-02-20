@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.473 s <<< FAILURE! - in runners.Runner
+Students's email validation(Student's title Automation)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.RuntimeException
+
